@@ -1,0 +1,6 @@
+{
+  "name": "BBLUNT - Salon",
+  "description": "BBLUNT - Salon website with services, pricing, gallery, team profiles, reviews, and appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
